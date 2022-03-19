@@ -1,1 +1,0 @@
-This is our weekend project - we're going to learn how to build a photo gallery!
